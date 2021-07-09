@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/pChoose"
+        android:title="@string/page_chooses"
+        android:visible="true"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic__5133413081597447559" />
+
+    <item android:id="@+id/Full_screen"
+        android:title="@string/full_screen"
+        android:visible="true"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic__0771967101555936706"/>
+
+    <item android:id="@+id/rate"
+        android:title="@string/rate"
+        android:visible="true"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic__958382471556281944"/>
+</menu>

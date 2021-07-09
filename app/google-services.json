@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "180244015452",
+    "project_id": "oona-out-of-order",
+    "storage_bucket": "oona-out-of-order.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180244015452:android:392350e79e265780b47999",
+        "android_client_info": {
+          "package_name": "com.salim.oonaoutoforder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180244015452-hkq9nh2lcag5oaofaa672usoef371hfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxOkAyWm2m4ERqaXIUmwZU8Vi3gr0RRBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "180244015452-hkq9nh2lcag5oaofaa672usoef371hfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

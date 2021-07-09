@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">رواية ديفالو</string>
+    <string name="page_chooses">تغيير الصفحة</string>
+    <string name="rate">تقييم</string>
+    <string name="full_screen">شاشةكاملة</string>
+    <!--test: ca-app-pub-3940256099942544/6300978111 -->
+    <string name="banner_ad_unit_id">ca-app-pub-3439232534344168/8699003473</string>
+</resources>
